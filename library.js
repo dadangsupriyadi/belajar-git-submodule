@@ -5,3 +5,6 @@ function sayHello(name){
 function sayGuset(neme){
     return "Hello";
 }
+function sum(a, b) {
+    return a + b;
+}
